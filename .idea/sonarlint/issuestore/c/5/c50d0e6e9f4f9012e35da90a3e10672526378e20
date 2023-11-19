@@ -1,0 +1,44 @@
+
+v
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(æÂû8èğ©Ã¾1
+v
+java:S22933"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ë‹Ø™8éğ©Ã¾1
+m
+java:S1192*"PDefine a constant instead of duplicating this literal "
+\tTÃ¡volsÃ¡g: " 3 times.(›ğí¶8œ¨ªÃ¾1
+k
+java:S1192*"NDefine a constant instead of duplicating this literal "MegÃ¡llÃ³:
+\t" 4 times.(›ğí¶8œ¨ªÃ¾1
+…
+java:S13193"hThe type of "busStops" should be an interface such as "List" rather than the implementation "ArrayList".(Ë‹Ø™8éğ©Ã¾1
+r	java:S117]"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­éÖÇûÿÿÿÿ8éğ©Ã¾1
+m
+java:S1301<"KReplace this "switch" statement by "if" statements to increase readability.(¯ĞÁÍúÿÿÿÿ8éğ©Ã¾1
+{
+java:S1488f"YImmediately return this expression instead of assigning it to the temporary variable "d".(È‰¹ùÿÿÿÿ8êğ©Ã¾1
+u
+java:S11042"SMake busStop a static final constant or non-public and provide accessors if needed.(²Ñú°ûÿÿÿÿ8êğ©Ã¾1
+q
+java:S11043"TMake busStops a static final constant or non-public and provide accessors if needed.(Ë‹Ø™8êğ©Ã¾1
+K
+java:S14443".Make this "public static busStops" field final(Ë‹Ø™8êğ©Ã¾1
+k
+java:S3973/"IUse indentation to denote the code conditionally executed by this "else".(„¶áìøÿÿÿÿ8¨ªÃ¾1
+U
+java:S2755"3Disable access to external entities in XML parsing.(ÂÿÕ‹ÿÿÿÿÿ8äñ©Ã¾1
+:
+java:S23863"Make this member "protected".(Ë‹Ø™8æñ©Ã¾1
+{	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(å¨‰ùÿÿÿÿ8çñ©Ã¾1
+v	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(œá‹Ê8çñ©Ã¾1
+v	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(üÕî‡8çñ©Ã¾1
+Q
+java:S2864#"4Iterate over the "entrySet" instead of the "keySet".(Ñíï¢8ìñ©Ã¾1
+L	java:S106$"+Replace this use of System.out by a logger.(îÆÆ¨ÿÿÿÿÿ8ìñ©Ã¾1
+G	java:S106*"+Replace this use of System.out by a logger.(›ğí¶8îñ©Ã¾1
+L	java:S106,"+Replace this use of System.out by a logger.(µõ÷øÿÿÿÿ8æ©ªÃ¾1
+G	java:S106."+Replace this use of System.out by a logger.(®ÙÌŞ8æ©ªÃ¾1
+L	java:S1060"+Replace this use of System.out by a logger.(ÒÇÄ»şÿÿÿÿ8æ©ªÃ¾1
+o
+java:S37765"RRefactor this method to reduce its Cognitive Complexity from 28 to the 15 allowed.(ûÀØ¯8ïñ©Ã¾1
+h	java:S128="LEnd this switch case with an unconditional break, return or throw statement.(²şÖ‡8ğñ©Ã¾1
+z	java:S131<"YComplete cases by adding the missing enum constants or add a default case to this switch.(¯ĞÁÍúÿÿÿÿ8ğñ©Ã¾1
